@@ -1,0 +1,6 @@
+asttokens==2.1.0
+cheap-repr==0.5.1
+executing==1.2.0
+Pygments==2.13.0
+six==1.16.0
+snoop==0.4.2
